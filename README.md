@@ -4,6 +4,7 @@ The times in which scripts are uploaded have little to no correlation on how ear
 
 I WILL NOT be accepting ANY PULL requests as I would like to learn from my own mistakes and improve from there.
 If you want to fork the projects and borrow from there you can, but do not expect to merge back.
+(You could use it to suggest changes for me, I just wont accept the pull to merge back in)
 (Flexible rule)
 
 Any script names containing the phrase "_vis" will require pygame-ce.
