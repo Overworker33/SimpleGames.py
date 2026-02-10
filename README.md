@@ -2,6 +2,10 @@ This is my first main GitHub Python dump for games.
 I'll try to make a game in only python and put it here.
 The times in which scripts are uploaded have little to no correlation on how early in my coding experience I made the script.
 
+I WILL NOT be accepting ANY PULL requests as I would like to learn from my own mistakes and improve from there.
+If you want to fork the projects and borrow from there you can, but do not expect to merge back.
+(Flexible rule)
+
 Any script names containing the phrase "_vis" will require pygame-ce.
 If it is not stated with "_vis" after, assume it is a terminal based game.
 
