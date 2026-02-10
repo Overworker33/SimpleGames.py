@@ -21,3 +21,5 @@ You have been warned. (Just close and open the terminal again to spare some sani
 
 UltimateTicTacToe_Vis and non "_Vis" are both the same game of Ultimate Tic Tac Toe,
 with one being terminal exclusive and the other is a pygame task.
+
+Made by Aiden Hildenbrandt
